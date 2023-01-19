@@ -1,0 +1,12 @@
+mongo:
+    uri: mongodb://localhost:27017
+    defaul: v5-dev
+
+redis:
+    host: 127.0.0.1:6379
+    pass: ""
+    db: 0
+
+log:
+    level: debug
+    target: os
